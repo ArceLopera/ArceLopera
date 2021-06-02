@@ -1,20 +1,20 @@
 ### Hola mundo | Hello world | Bonjour monde | こんにちは世界 👋
 
-- 🛠️ Technical Skills: 
-                        👅 Languages: Python, Java, C#, C++, R, Matlab, Bash, PS, VB
-                        💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano, VIM, emacs 
-                        📖 Tools and Libraries: OpenCV, PyTorch, TensorFlow, Keras, Scikit
+* 🛠️ Technical Skills: 
+  * 👅 Languages: Python, Java, C#, C++, R, Matlab, Bash, PS, VB
+  * 💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano, VIM, emacs
+  * 📖 Tools and Libraries: OpenCV, PyTorch, TensorFlow, Keras, Scikit
                       
-- ⏳ Currently Learning:  
-                        ☁️ Cloud development : AWS Cloud 9, microservices, serverless
+* ⏳ Currently Learning:
+  * ☁️ Cloud development : AWS Cloud 9, microservices, serverless
                       
-- 🤔 Research interests:
-                        🎲 Game Development
-                        👤 UX Research
-                        🎮 Novel HCI Interfaces
-                        🍣 Food Perception
-                        :suspect: Skin Quality
-                        🎶 Music Perception 
+* 🤔 Research interests:
+  * 🎲 Game Development
+  * 👤 UX Research
+  * 🎮 Novel HCI Interfaces
+  * 🍣 Food Perception
+  * :suspect: Skin Quality
+  * 🎶 Music Perception 
 
 - 💬 Ask me about research methods for psychophysics
 - ⚡ Fun fact: I am learning to play the piano 🎹 and ukulele 🎻
