@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/carlos-arcelopera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ArceLopera" height="20" width="20" /></a>
 <a href="https://www.researchgate.net/profile/Carlos_Arce_Lopera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="ArceLopera" height="20" width="20" /></a>
 <a href="https://scholar.google.com/citations?user=_JK6ORsAAAAJ&hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="ArceLopera" height="20" width="20" /></a>
-  <a href="https://arcelopera.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="ArceLopera" height="20" width="20" /></a>
+  <a href="https://arcelopera.github.io/portfolio/" target="blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="ArceLopera" height="20" width="20" /></a>
 </p>
 <br>
 <br>
