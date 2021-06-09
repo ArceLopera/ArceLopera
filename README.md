@@ -1,7 +1,7 @@
 ### Hola mundo | Hello world | Bonjour monde | こんにちは世界 👋
 
 * 🛠️ Technical Skills: 
-  * 👅 Languages: Python, Java, C#, C++, R, Matlab, Bash, PS, VB
+  * 👅 Languages: Python, Java, C#, C++, R, Matlab, Bash, PowerShell, VB
   * 💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano, VIM, emacs
   * 📖 Tools and Libraries: OpenCV, PyTorch, TensorFlow, Keras, Scikit
                       
