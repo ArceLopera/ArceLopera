@@ -1,8 +1,9 @@
 ### Hola mundo | Hello world | Bonjour monde | こんにちは世界 👋
+Gaming enthusiast that believe that motivation is central for learning.
 
 * 🛠️ Technical Skills: 
-  * 👅 Languages: Python, Java, C#, C++, R, Matlab, Bash, PowerShell, VB
-  * 💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano, VIM, emacs
+  * 👅 Languages: Python, Java, C#, Matlab, Bash, PowerShell
+  * 💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano
   * 📖 Tools and Libraries: OpenCV, PyTorch, TensorFlow, Keras, Scikit
                       
 * ⏳ Currently Learning:
