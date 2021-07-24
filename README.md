@@ -4,9 +4,9 @@
 Gaming enthusiast that believe that motivation is central for learning.
 
 * 🛠️ Technical Skills: 
-  * 👅 Languages: Python, Java, C#, Matlab, Bash, PowerShell
-  * 💻 IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano
-  * 📖 Tools and Libraries: OpenCV, PyTorch, TensorFlow, Keras, SciPy
+  * 👅 Preferred Languages: Python, C#, Java, Matlab, Bash, PowerShell
+  * 💻 Most used IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano
+  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch, TensorFlow, Keras
                       
 * ⏳ Currently Learning:
   * ☁️ Cloud development : AWS Cloud 9, microservices, serverless
