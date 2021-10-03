@@ -4,7 +4,7 @@
 Gaming enthusiast that believe that motivation is central for learning.
 
 * 🛠️ Technical Skills: 
-  * 👅 Preferred Languages: Python, C#, Java, Matlab, Bash, PowerShell
+  * 👅 Preferred Languages: Python, C#, C++, Java, Matlab, Bash, PowerShell
   * 💻 Most used IDEs: Jupyter, Visual Studio, Eclipse, IntelliJ IDEA, WebStorm, Nano
   * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch, TensorFlow, Keras
                       
