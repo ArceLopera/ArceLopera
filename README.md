@@ -10,6 +10,7 @@ R&D advocate 🥑 that believe that motivation and curiosity are central for lea
                       
 * ⏳ Currently Learning:
   * ☁️ Cloud development : DevOps, AWS Cloud Services, microservices, serverless
+  * 🦺 Security: DevSecOps, Cryptography, Cybersecurity
                       
 * 🤔 Research interests:
   * 🎲 Game Development
