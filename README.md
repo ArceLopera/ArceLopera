@@ -1,11 +1,11 @@
 ###  Bonjour monde | Hello world | Hola mundo | こんにちは世界 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ArceLopera)
 
-R&D advocate 🥑 that believe that motivation and curiosity are central for learning.
+R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions to complex real problems.
 
 * 🛠️ Technical Skills: 
   * 👅 Preferred Languages: Python, C#, C++, Java, Matlab, Bash, PowerShell
-  * 💻 Most used IDEs: Visual Studio Code, Eclipse, IntelliJ IDEA, WebStorm, Nano
+  * 💻 IDE: Visual Studio Code
   * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch, TensorFlow, Keras
                       
 * ⏳ Currently Learning:
