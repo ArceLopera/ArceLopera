@@ -4,18 +4,20 @@
 R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions to complex real problems.
 
 * 🛠️ Technical Skills: 
-  * 👅 Preferred Languages: Python, C#, C++, Java, Matlab, Bash, PowerShell
+  * 👅 Preferred Languages: 🐍 Python,  C#, C++, ☕ Java, Matlab 
+  * 📜 Scripting: Bash/AWK, PowerShell
   * 💻 IDE: Visual Studio Code
-  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch, TensorFlow, Keras
+  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch
+  * 👨‍💻 DevOps: Git, 🐳 Docker
                       
 * ⏳ Currently Learning:
   * ☁️ Cloud development : DevOps, AWS Cloud Services, microservices, serverless
   * 🦺 Security: DevSecOps, Cryptography, Cybersecurity
                       
 * 🤔 Research interests:
-  * 🎲 Game Development
-  * 👤 UX Research
   * 🎮 Novel HCI Interfaces
+  * 👤 UX Research
+  * 🎲 Game Development
   * 🍣 Food Perception
   * :suspect: Skin Quality
   * 🎶 Music Perception 
