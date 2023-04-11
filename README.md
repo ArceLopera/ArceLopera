@@ -5,7 +5,7 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
 
 * 🛠️ Technical Skills: 
   * 👅 Preferred Languages: 🐍 Python,  C#, C++, ☕ Java, Matlab 
-  * 📜 Scripting: Bash/AWK, PowerShell
+  * 📜 Scripting: Bash/AWK, [Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
   * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch
   * 👨‍💻 DevOps: Git, 🐳 Docker
