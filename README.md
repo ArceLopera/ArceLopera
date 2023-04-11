@@ -4,7 +4,7 @@
 R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions to complex real problems.
 
 * 🛠️ Technical Skills: 
-  * 👅 Preferred Languages: 🐍 Python,  C#, C++, ☕ Java, Matlab 
+  * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab 
   * 📜 Scripting: Bash/AWK, [Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
   * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, OpenCV, PyTorch
