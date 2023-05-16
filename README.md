@@ -14,12 +14,12 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
   * 🦺 Security: DevSecOps, Cryptography, Cybersecurity
                       
 * 🤔 Research interests:
-  * 🎮 Novel HCI Interfaces
-  * 👤 UX Research
+  * 🎮 [Novel HCI Interfaces](https://arcelopera.github.io/biometric/)
+  * 👤 [UX Research](https://arcelopera.github.io/ux/)
   * 🎲 Game Development
-  * 🍣 Food Perception
-  * :suspect: Skin Quality
-  * 🎶 Music Perception 
+  * 🍣 [Food Perception](https://arcelopera.github.io/portfolio/2_Food/)
+  * :suspect: [Skin Quality](https://arcelopera.github.io/portfolio/3_Face_n_Skin/)
+  * 🎶 [Music Perception](https://arcelopera.github.io/portfolio/4_Sound_n_Music/) 
 
 - 💬 Ask me about research methods for psychophysics
 - ⚡ Fun fact: I am learning to play the piano 🎹 and ukulele 🎻
