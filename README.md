@@ -10,16 +10,23 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
   * 👨‍💻 DevOps: Git, 🐳 Docker
                       
 * ⏳ Currently Learning:
-  * ☁️ Cloud development : DevOps, AWS Cloud Services, microservices, serverless
+  * ☁️ Cloud development : DevOps, Cloud Services, microservices, serverless
   * 🦺 Security: DevSecOps, Cryptography, Cybersecurity
                       
 * 🤔 Research interests:
   * 🎮 [Novel HCI Interfaces](https://arcelopera.github.io/biometric/)
   * 👤 [UX Research](https://arcelopera.github.io/ux/)
-  * 🎲 Game Development
   * 🍣 [Food Perception](https://arcelopera.github.io/portfolio/2_Food/)
   * :suspect: [Skin Quality](https://arcelopera.github.io/portfolio/3_Face_n_Skin/)
-  * 🎶 [Music Perception](https://arcelopera.github.io/portfolio/4_Sound_n_Music/) 
+  * 🎶 [Sound & Music Perception](https://arcelopera.github.io/portfolio/4_Sound_n_Music/) 
+
+* 🏭 Industries:
+  * [🛒Retail🛒 & 🛎Tourism🛎](https://arcelopera.github.io/products/0_RetailTech/)
+  * [🎲Gaming🕹 & 🎨Arts🎶](https://arcelopera.github.io/products/1_GamingTech/)
+  * [🎓Education🎓](https://arcelopera.github.io/eduTech/)
+  * [🔬Science🔬 & 🩻 Health🩻](https://arcelopera.github.io/Scihealth/)
+  * [🌇Smart Cities🌇](https://arcelopera.github.io/products/4_SmartCities/)
+
 
 - 💬 Ask me about research methods for psychophysics
 - ⚡ Fun fact: I am learning to play the piano 🎹 and ukulele 🎻
