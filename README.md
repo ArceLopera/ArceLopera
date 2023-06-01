@@ -6,7 +6,7 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
   * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab 
   * 📜 Scripting: Bash/AWK, [Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
-  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, [OpenCV](https://arcelopera.github.io/ComputerVisionPython/), PyTorch
+  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, [OpenCV](https://github.com/ArceLopera/ComputerVisionPython), PyTorch
   * 👨‍💻 DevOps: Git, 🐳 Docker
                       
 * ⏳ Currently Learning:
