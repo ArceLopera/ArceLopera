@@ -24,7 +24,7 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
   * [🛒Retail🛒 & 🛎Tourism🛎](https://arcelopera.github.io/products/0_RetailTech/)
   * [🎲Gaming🕹 & 🎨Arts🎶](https://arcelopera.github.io/products/1_GamingTech/)
   * [🎓Education🎓](https://arcelopera.github.io/eduTech/)
-  * [🔬Science🔬 & 🩻 Health🩻](https://arcelopera.github.io/Scihealth/)
+  * [🔬Science👨🏻‍🔬 &  🥕Health🍎](https://arcelopera.github.io/Scihealth/)
   * [🌇Smart Cities🌇](https://arcelopera.github.io/products/4_SmartCities/)
 
 
