@@ -29,7 +29,7 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
 
 
 - 💬 Ask me about research methods for psychophysics
-- ⚡ Fun fact: I am learning to play the piano 🎹 and ukulele 🎻
+- ⚡ Fun fact: I am learning how to play the piano 🎹 and the ukulele 🎻
 
 <br>
 <p align="center">
