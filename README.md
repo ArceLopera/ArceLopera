@@ -1,6 +1,7 @@
 ###  Bonjour monde | Hello world | Hola mundo | こんにちは世界 👋
 
 R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions to complex real problems.
+
 Working as a Software Engineer/ML Engineer/Data Scientist to develop and deploy effective ML models and systems.
 
 * 🛠️ Technical Skills: 
