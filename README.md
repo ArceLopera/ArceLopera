@@ -7,10 +7,10 @@ Working as a Software Engineer/ML Engineer/Data Scientist to develop and deploy 
 * 🛠️ Technical Skills: 
   * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab
   * 🕸️ Web Development: [🐘 PHP](https://arcelopera.github.io/PHPRefresher/), Javascript
-  * 📜 Scripting: Bash/AWK, [Powershell](https://arcelopera.github.io/PowershellWeb/)
+  * 📜 Scripting: 🐧 Bash/AWK, [👨🏽‍💻 Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
-  * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, [OpenCV](https://github.com/ArceLopera/ComputerVisionPython), PyTorch
-  * 👨‍💻 DevOps: Git, 🐳 Docker
+  * 📖 Common Tools and Libraries: 🧪 Scipy, 🧮Scikit-Learn, [👁️ OpenCV](https://github.com/ArceLopera/ComputerVisionPython), 🔥 PyTorch, 🔗 TensorFlow
+  * 👨‍💻 DevOps: 👷🏽 Git, 🐳 Docker
                       
 * ⏳ Currently Learning:
   * ☁️ Cloud development : DevOps, Cloud Services, microservices, serverless
