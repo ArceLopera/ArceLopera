@@ -5,7 +5,8 @@ R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions 
 Working as a Software Engineer/ML Engineer/Data Scientist to develop and deploy effective ML models and systems.
 
 * 🛠️ Technical Skills: 
-  * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab 
+  * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab
+  * 🕸️ Web Development: [🐘 PHP](https://arcelopera.github.io/PHPRefresher/), Javascript
   * 📜 Scripting: Bash/AWK, [Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
   * 📖 Common Tools and Libraries: Scipy, Scikit-Learn, [OpenCV](https://github.com/ArceLopera/ComputerVisionPython), PyTorch
