@@ -2,7 +2,7 @@
 
 R&D advocate 🥑 and Prototype Engineer👨‍🔧 building scalable solutions to complex real problems.
 
-Working as a Software Engineer/ML Engineer/Data Scientist to develop and deploy effective ML models and systems.
+Working as a Software Engineer/ML Engineer to develop and deploy effective ML models and systems.
 
 * 🛠️ Technical Skills: 
   * 👅 Preferred Languages: [🐍 Python](https://arcelopera.github.io/PythonRefresher/),  C#, C++, ☕ Java, Matlab
@@ -12,23 +12,24 @@ Working as a Software Engineer/ML Engineer/Data Scientist to develop and deploy 
   * 📖 Common Tools and Libraries: 🧪 Scipy, 🧮Scikit-Learn, [👁️ OpenCV](https://github.com/ArceLopera/ComputerVisionPython), 🔥 PyTorch, 🔗 TensorFlow
   * 👨‍💻 DevOps: 👷🏽 Git, 🐳 Docker
                       
-* ⏳ Currently Learning:
+* ⏳ Current Focus:
+  * 🎓Moodle: Plugin Development 
   * ☁️ Cloud development : DevOps, Cloud Services, microservices, serverless
   * 🦺 Security: DevSecOps, Cryptography, Cybersecurity
                       
+* 🏭 Industries:
+  * [🎓Education🎓](https://arcelopera.github.io/eduTech/)
+  * [🛒Retail🛒 & 🛎Tourism🛎](https://arcelopera.github.io/products/0_RetailTech/)
+  * [🎲Gaming🕹 & 🎨Arts🎶](https://arcelopera.github.io/products/1_GamingTech/)
+  * [🔬Science👨🏻‍🔬 &  🥕Health🍎](https://arcelopera.github.io/Scihealth/)
+  * [🌇Smart Cities🌇](https://arcelopera.github.io/products/4_SmartCities/)
+ 
 * 🤔 Research interests:
   * 🎮 [Novel HCI Interfaces](https://arcelopera.github.io/biometric/)
   * 👤 [UX Research](https://arcelopera.github.io/ux/)
   * 🍣 [Food Perception](https://arcelopera.github.io/portfolio/2_Food/)
   * :suspect: [Skin Quality](https://arcelopera.github.io/portfolio/3_Face_n_Skin/)
   * 🎶 [Sound & Music Perception](https://arcelopera.github.io/portfolio/4_Sound_n_Music/) 
-
-* 🏭 Industries:
-  * [🛒Retail🛒 & 🛎Tourism🛎](https://arcelopera.github.io/products/0_RetailTech/)
-  * [🎲Gaming🕹 & 🎨Arts🎶](https://arcelopera.github.io/products/1_GamingTech/)
-  * [🎓Education🎓](https://arcelopera.github.io/eduTech/)
-  * [🔬Science👨🏻‍🔬 &  🥕Health🍎](https://arcelopera.github.io/Scihealth/)
-  * [🌇Smart Cities🌇](https://arcelopera.github.io/products/4_SmartCities/)
 
 
 - 💬 Ask me about research methods for psychophysics
