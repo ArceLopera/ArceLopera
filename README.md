@@ -37,7 +37,6 @@ Working as a Software Engineer/ML Engineer to develop and deploy effective ML mo
 
 <br>
 <p align="center">
-<a href="https://twitter.com/ArceLopera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ArceLopera" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/carlos-arcelopera/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ArceLopera" height="20" width="20" /></a>
 <a href="https://www.researchgate.net/profile/Carlos_Arce_Lopera" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="ArceLopera" height="20" width="20" /></a>
 <a href="https://scholar.google.com/citations?user=_JK6ORsAAAAJ&hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="ArceLopera" height="20" width="20" /></a>
