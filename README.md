@@ -10,6 +10,7 @@ Working as a Software Engineer/ML Engineer to develop and deploy effective ML mo
   * 📜 Scripting: 🐧 Bash/AWK, [👨🏽‍💻 Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
   * 📖 Common Tools and Libraries: 🧪 Scipy, 🧮Scikit-Learn, [👁️ OpenCV](https://github.com/ArceLopera/ComputerVisionPython), 🔥 PyTorch, 🔗 TensorFlow
+  * 📊 Data: 🛢️ SQL, 🐼 Pandas, 
   * 👨‍💻 DevOps & CI/CD: [👷🏽 Git](https://arcelopera.github.io/git_refresher/), 🐳 Docker, ▶ GoCD
                       
 * ⏳ Current Focus:
