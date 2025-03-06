@@ -9,8 +9,8 @@ Working as a Software Engineer/ML Engineer to develop and deploy effective ML mo
   * 🕸️ Web Development: [🐘 PHP](https://arcelopera.github.io/PHPRefresher/), Javascript, NodeJS, HTML/CSS, 👨 {{Mustache}}, Bootstrap
   * 📜 Scripting: 🐧 Bash/AWK, [👨🏽‍💻 Powershell](https://arcelopera.github.io/PowershellWeb/)
   * 💻 IDE: Visual Studio Code
-  * 📖 Common Tools and Libraries: 🧪 Scipy, 🧮Scikit-Learn, [👁️ OpenCV](https://github.com/ArceLopera/ComputerVisionPython), 🔥 PyTorch, 🔗 TensorFlow
-  * 📊 Data: 🛢️ SQL, 🐼 Pandas, 
+  * 📖 IP & CV: 🧪 Scipy, [👁️ OpenCV](https://github.com/ArceLopera/ComputerVisionPython)
+  * 📊 [Data & ML](https://arcelopera.github.io/PythonRefresher/ML/pyGen/): 🛢️ SQL, [🐼 Pandas](https://arcelopera.github.io/PythonRefresher/ML/pyPandas/), 🧮Scikit-Learn, , 🔥 PyTorch, 🔗 TensorFlow
   * 👨‍💻 DevOps & CI/CD: [👷🏽 Git](https://arcelopera.github.io/git_refresher/), 🐳 Docker, ▶ GoCD
                       
 * ⏳ Current Focus:
